@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "yNYwM9JoenL0JnE9e+I5YO2VuMpbCGP6igcxAPAMbS4=",
+  "Source": "Wrap",
+  "BasePath": "_content/Wrap",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Wrap\\wwwroot",
+      "Source": "Wrap",
+      "ContentRoot": "C:\\Users\\Naz\\source\\repos\\Wrap\\Wrap\\wwwroot\\",
+      "BasePath": "_content/Wrap",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Naz\\source\\repos\\Wrap\\Wrap\\wwwroot\\Content\\app.css",
+      "SourceId": "Wrap",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Naz\\source\\repos\\Wrap\\Wrap\\wwwroot\\",
+      "BasePath": "_content/Wrap",
+      "RelativePath": "Content/app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Content\\app.css"
+    }
+  ]
+}

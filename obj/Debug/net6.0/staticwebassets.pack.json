@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Naz\\source\\repos\\Wrap\\Wrap\\wwwroot\\Content\\app.css",
+      "PackagePath": "staticwebassets\\Content\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Wrap.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Wrap.props",
+      "PackagePath": "build\\Wrap.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Wrap.props",
+      "PackagePath": "buildMultiTargeting\\Wrap.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Wrap.props",
+      "PackagePath": "buildTransitive\\Wrap.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
